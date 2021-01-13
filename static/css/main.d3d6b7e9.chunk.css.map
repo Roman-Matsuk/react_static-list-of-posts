@@ -1,0 +1,1 @@
+{"version":3,"sources":["Post.scss"],"names":[],"mappings":"AAAA,MACE,qBAAuB,CACvB,aAAc,CACd,YAAa","file":"main.d3d6b7e9.chunk.css","sourcesContent":[".post {\n  border: 1px solid black;\n  margin: 20px 0;\n  padding: 10px;\n}\n"]}
